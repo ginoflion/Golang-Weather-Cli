@@ -36,8 +36,9 @@ go get github.com/joho/godotenv
 ```
 
 ### **4. Run the CLI**
+```
 go run main.go <city>
-
+```
 ## Example:
 ```
 go run main.go London
